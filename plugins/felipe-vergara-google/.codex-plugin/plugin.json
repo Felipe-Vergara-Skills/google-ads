@@ -1,0 +1,16 @@
+{
+  "name": "felipe-vergara-google",
+  "version": "0.1.0",
+  "description": "Skills del curso de Google Ads de Felipe Vergara servidas vía MCP con licencia",
+  "author": {
+    "name": "Felipe Vergara"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Felipe Vergara - Google Ads",
+    "shortDescription": "Skills del curso de Google Ads vía MCP con licencia por token",
+    "category": "Productivity",
+    "brandColor": "#74fbfb"
+  }
+}

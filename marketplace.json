@@ -1,0 +1,20 @@
+{
+  "name": "felipe-vergara-google",
+  "interface": {
+    "displayName": "Felipe Vergara - Google Ads"
+  },
+  "plugins": [
+    {
+      "name": "felipe-vergara-google",
+      "source": {
+        "source": "local",
+        "path": "./plugins/felipe-vergara-google"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

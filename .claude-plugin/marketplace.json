@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "felipe-vergara-google",
+  "description": "Marketplace de Felipe Vergara: MCP con skills para Google Ads",
+  "owner": {
+    "name": "Felipe Vergara"
+  },
+  "plugins": [
+    {
+      "name": "felipe-vergara-google",
+      "description": "Skills del curso de Google Ads de Felipe Vergara servidas vía MCP con licencia",
+      "source": "./plugins/felipe-vergara-google",
+      "category": "productivity"
+    }
+  ]
+}
