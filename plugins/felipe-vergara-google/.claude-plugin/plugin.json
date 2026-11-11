@@ -1,7 +1,7 @@
 {
   "name": "felipe-vergara-google",
   "description": "Skills del curso de Google Ads de Felipe Vergara servidas vía MCP con licencia. Después de instalar, dile a Claude 'configura mi token de Google Ads' para activar las skills.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Felipe Vergara"
   },

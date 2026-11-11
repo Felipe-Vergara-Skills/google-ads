@@ -18,7 +18,7 @@ Dile exactamente esto:
 ¡Hola! Voy a activar tu acceso al MCP de Google Ads de Felipe Vergara en 30 segundos.
 
 Pega tu token de acceso (empieza con "fvg_"). Lo encuentras en tu cuenta:
-→ https://cuenta.felipevergara.co  (sección "Tu token del MCP de Google Ads")
+→ https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co  (sección "Tu token del MCP de Google Ads")
 ```
 
 Espera a que lo pegue.
@@ -31,7 +31,7 @@ Si empieza con otro prefijo (por ejemplo `fv_`), es el token de OTRO curso de Fe
 
 ```
 Ese token es de otro curso. Para Google Ads necesito el que empieza con "fvg_".
-Lo copias aquí: https://cuenta.felipevergara.co  (sección "Tu token del MCP de Google Ads")
+Lo copias aquí: https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co  (sección "Tu token del MCP de Google Ads")
 (Tip: usa el botón de "Copiar" para que quede completo.)
 ```
 
@@ -54,8 +54,8 @@ curl -s -o /dev/null -w "%{http_code}" -H "Authorization: Bearer EL_TOKEN_PEGADO
 (En PowerShell usa `curl.exe` en lugar de `curl`, y `NUL` en lugar de `/dev/null`.)
 
 - `200`: token correcto, sigue al Paso 2.
-- `401`: el token no existe. Dile: "Ese token no me aparece. ¿Puedes copiarlo otra vez completo desde tu cuenta? → https://cuenta.felipevergara.co  (sección "Tu token del MCP de Google Ads")" y espera.
-- `403`: el token ya no está activo. Dile: "Ese token ya no está vigente. Entra a tu cuenta y copia el actual → https://cuenta.felipevergara.co  (sección "Tu token del MCP de Google Ads")" y espera.
+- `401`: el token no existe. Dile: "Ese token no me aparece. ¿Puedes copiarlo otra vez completo desde tu cuenta? → https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co  (sección "Tu token del MCP de Google Ads")" y espera.
+- `403`: el token ya no está activo. Dile: "Ese token ya no está vigente. Entra a tu cuenta y copia el actual → https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co  (sección "Tu token del MCP de Google Ads")" y espera.
 - Cualquier otra cosa o error de conexión: sigue al Paso 2 de todos modos (puede ser un problema de red pasajero).
 
 ### Paso 2. Registra el acceso

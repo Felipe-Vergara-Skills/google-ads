@@ -8,7 +8,7 @@ Acceso al MCP de Felipe Vergara con las skills del curso de Google Ads.
 
 ### Paso 1. Copiar tu token de acceso
 
-Entra a **https://cuenta.felipevergara.co** con el email con el que compraste el curso.
+Entra a **https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co** con el email con el que compraste el curso.
 
 En la sección **Tu token del MCP de Google Ads** está tu token: empieza con `fvg_…`. Cópialo con el botón **Copiar**.
 
@@ -104,7 +104,7 @@ Si usas la app de Claude o Cowork con el conector, no tienes que actualizar nada
 Tu token no está registrado en este cliente. Repite el Paso 3.
 
 **"Este token ya no está activo" o "Tu acceso expiró"**
-Tu token fue renovado o tu acceso venció. Entra a https://cuenta.felipevergara.co, copia tu token actual y vuelve a conectar: en Claude Code di *"configura mi token de Google Ads"*; en la app de Claude o Cowork edita el conector y vuelve a autorizar.
+Tu token fue renovado o tu acceso venció. Entra a https://ifs0gqumun7cmigvfniyxqec.apps.felipevergara.co, copia tu token actual y vuelve a conectar: en Claude Code di *"configura mi token de Google Ads"*; en la app de Claude o Cowork edita el conector y vuelve a autorizar.
 
 **"Token no encontrado" al pegarlo**
 Revisa que sea el de Google Ads (empieza con `fvg_`) y no el de otro curso.
